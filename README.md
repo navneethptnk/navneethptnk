@@ -1,7 +1,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  BANNER  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
-<img src="./assets/banner.png" width="100%"/>
+<img src="IMG_2251.JPG" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=99999&color=FF6B00&center=true&vCenter=true&width=600&lines=Navneeth+Patnaik+%E2%80%94+navneethptnk" alt="name" />
 </div>
