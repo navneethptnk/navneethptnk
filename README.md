@@ -32,11 +32,11 @@
 const navneeth = {
   location   : "Visakhapatnam, India 🌊",
   education  : "B.Tech CSE · Cybersecurity · GITAM University · 2027",
-  roles      : [ "Full-Stack Developer", "Data Analyst", "Security Researcher" ],
+  roles      : [ "Full-Stack Developer", "Data Analyst", "Security Analyst" ],
   currentFocus : [
     "Building AI-integrated web platforms",
     "Advanced Power BI & DAX pipelines",
-    "Digital Forensics & Incident Response",
+    "Security Risk Analyst",
   ],
   askMeAbout : [ "React", "Python", "Data Analytics", "Cybersecurity", "AI/ML" ],
   achievement: "Smart India Hackathon 2025 — Internally Shortlisted 🏆",
@@ -64,46 +64,51 @@ const navneeth = {
 
 **Languages & Runtimes**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,cpp,c,bash&theme=dark"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Frontend**
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,figma&theme=dark"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **Backend & Databases**
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,express,mysql,sqlite&theme=dark"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Data · AI · ML**
 
-<p>
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/DAX-FF6B00?style=flat-square&logo=microsoft&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/MediaPipe-FF6B00?style=flat-square&logo=google&logoColor=white&labelColor=0a0a0a"/>
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-FF6B00?style=for-the-badge&logo=microsoft&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6B00?style=for-the-badge&logo=google&logoColor=white)
 
 **Security & DevOps**
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/Autopsy-FF6B00?style=flat-square&logo=linux&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/FTK_Imager-222222?style=flat-square&logo=linux&logoColor=white&labelColor=0a0a0a"/>
-<img src="https://img.shields.io/badge/Steganography-111111?style=flat-square&logo=gnuprivacyguard&logoColor=white&labelColor=0a0a0a"/>
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-FF6B00?style=for-the-badge&logo=linux&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-333333?style=for-the-badge&logo=linux&logoColor=white)
+![Steganography](https://img.shields.io/badge/Steganography-1a1a1a?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br/>
 
@@ -113,17 +118,15 @@ const navneeth = {
 
 <div align="center">
 
-[![EduPath](https://github-readme-stats.vercel.app/api/pin/?username=navneethptnk&repo=EduPath&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=FF6B00&icon_color=FF6B00&text_color=c9d1d9&border_color=FF6B00)](https://github.com/navneethptnk/EduPath)
-&nbsp;
-[![QuantVista](https://github-readme-stats.vercel.app/api/pin/?username=navneethptnk&repo=QuantVista&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=FF6B00&icon_color=FF6B00&text_color=c9d1d9&border_color=FF6B00)](https://github.com/navneethptnk/QuantVista)
-
-[![gamyfied-pass-checker](https://github-readme-stats.vercel.app/api/pin/?username=navneethptnk&repo=gamyfied-pass-checker&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=FF6B00&icon_color=FF6B00&text_color=c9d1d9&border_color=FF6B00)](https://github.com/navneethptnk/gamyfied-pass-checker)
-&nbsp;
-[![navneethptnk.github.io](https://github-readme-stats.vercel.app/api/pin/?username=navneethptnk&repo=navneethptnk.github.io&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=FF6B00&icon_color=FF6B00&text_color=c9d1d9&border_color=FF6B00)](https://github.com/navneethptnk/navneethptnk.github.io)
+| Project | Description | Stack | Link |
+|:---|:---|:---|:---:|
+| 🎓 **EduPath** | Career guidance platform — admission timelines, scholarships & govt exam deadlines in one place | `React` `Node.js` `MySQL` | [→](https://github.com/navneethptnk/EduPath) |
+| 📊 **QuantVista** | Upload CSV / Excel / JSON → get interactive charts, smart analysis & exportable dashboards | `Python` `Flask` `Pandas` `Power BI` | [→](https://github.com/navneethptnk/QuantVista) |
+| 🎵 **AI Music Interaction** | Gesture-controlled music via real-time hand & pose tracking — no touch needed | `Python` `MediaPipe` `OpenCV` | 🔒 private |
+| 🔐 **Gamified Pass Checker** | Password strength checker with entropy scoring, breach detection & GAN resistance probing | `JavaScript` | [→](https://github.com/navneethptnk/gamyfied-pass-checker) |
+| 🌐 **Portfolio** | Personal site with dark minimal aesthetic, terminal UI & dual Full-Stack / Analyst persona toggle | `HTML` `CSS` `JS` | [→](https://github.com/navneethptnk/navneethptnk.github.io) |
 
 </div>
-
-> 🔒 **AI Music Interaction System** — Python · MediaPipe · OpenCV · Gesture-controlled music via real-time hand tracking *(private repo)*
 
 <br/>
 
