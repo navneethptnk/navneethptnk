@@ -28,21 +28,9 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ABOUT  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-```javascript
-const navneeth = {
-  location   : "Visakhapatnam, India 🌊",
-  education  : "B.Tech CSE · Cybersecurity · GITAM University · 2027",
-  roles      : [ "Full-Stack Developer", "Data Analyst", "Security Analyst" ],
-  currentFocus : [
-    "Building AI-integrated web platforms",
-    "Advanced Power BI & DAX pipelines",
-    "Security Risk Analyst",
-  ],
-  askMeAbout : [ "React", "Python", "Data Analytics", "Cybersecurity", "AI/ML" ],
-  achievement: "Smart India Hackathon 2025 — Internally Shortlisted 🏆",
-  philosophy : "Break things to understand them. Ship things to learn from them.",
-};
-```
+<div align="center">
+  <img src="about.svg" width="100%"/>
+</div>
 
 <br/>
 
@@ -181,4 +169,4 @@ const navneeth = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:FF6B00,60:1a0800,100:0a0a0a&height=120&section=footer&animation=fadeIn&reversal=true" width="100%"/>
+<img src="IMG_2252-EDIT.jpg" width="100%"/>
