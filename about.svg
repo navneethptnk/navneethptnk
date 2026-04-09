@@ -1,61 +1,61 @@
-<svg width="100%" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="680" height="420" rx="8" fill="#0d1117"/>
+<svg width="100%" viewBox="0 0 680 380" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="680" height="380" rx="8" fill="#0d1117"/>
   <circle cx="26" cy="22" r="6" fill="#ff5f57"/>
   <circle cx="46" cy="22" r="6" fill="#febc2e"/>
   <circle cx="66" cy="22" r="6" fill="#28c840"/>
 
-  <text x="24" y="58">
-    <tspan style="font:500 13px 'Fira Code',monospace;fill:#c792ea">const </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#82aaff">navneeth </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff">= {</tspan>
+  <text x="24" y="55">
+    <tspan style="font:500 11px 'Fira Code',monospace;fill:#c792ea">const </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#82aaff">navneeth </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff">= {</tspan>
   </text>
-  <text x="40" y="84">
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#FF6B00">location   </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff">: </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#c3e88d">"Visakhapatnam, India 🌊"</tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff">,</tspan>
+  <text x="40" y="76">
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#FF6B00">location   </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff">: </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#c3e88d">"Visakhapatnam, India 🌊"</tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff">,</tspan>
   </text>
-  <text x="40" y="108">
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#FF6B00">education  </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff">: </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#c3e88d">"B.Tech CSE · Cybersecurity · GITAM University · 2027"</tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff">,</tspan>
+  <text x="40" y="97">
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#FF6B00">education  </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff">: </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#c3e88d">"B.Tech CSE · Cybersecurity · GITAM University · 2027"</tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff">,</tspan>
   </text>
-  <text x="40" y="132">
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#FF6B00">roles      </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff">: [ </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#c3e88d">"Full-Stack Developer"</tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff">, </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#c3e88d">"Data Analyst"</tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff">, </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#c3e88d">"Security Analyst"</tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff"> ],</tspan>
+  <text x="40" y="118">
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#FF6B00">roles      </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff">: [ </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#c3e88d">"Full-Stack Developer"</tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff">, </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#c3e88d">"Data Analyst"</tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff">, </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#c3e88d">"Security Analyst"</tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff"> ],</tspan>
   </text>
-  <text x="40" y="156">
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#FF6B00">currentFocus </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff">: [</tspan>
+  <text x="40" y="139">
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#FF6B00">currentFocus </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff">: [</tspan>
   </text>
-  <text x="64" y="178" style="font:400 13px 'Fira Code',monospace;fill:#c3e88d">"Building AI-integrated web platforms",</text>
-  <text x="64" y="200" style="font:400 13px 'Fira Code',monospace;fill:#c3e88d">"Advanced Power BI &amp; DAX pipelines",</text>
-  <text x="64" y="222" style="font:400 13px 'Fira Code',monospace;fill:#c3e88d">"Security Risk Analyst",</text>
-  <text x="40" y="244" style="font:400 13px 'Fira Code',monospace;fill:#89ddff">],</text>
-  <text x="40" y="268">
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#FF6B00">askMeAbout </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff">: [ </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#c3e88d">"React", "Python", "Data Analytics", "Cybersecurity", "AI/ML"</tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff"> ],</tspan>
+  <text x="64" y="158" style="font:400 11px 'Fira Code',monospace;fill:#c3e88d">"Building AI-integrated web platforms",</text>
+  <text x="64" y="177" style="font:400 11px 'Fira Code',monospace;fill:#c3e88d">"Advanced Power BI &amp; DAX pipelines",</text>
+  <text x="64" y="196" style="font:400 11px 'Fira Code',monospace;fill:#c3e88d">"Security Risk Analyst",</text>
+  <text x="40" y="215" style="font:400 11px 'Fira Code',monospace;fill:#89ddff">],</text>
+  <text x="40" y="236">
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#FF6B00">askMeAbout </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff">: [ </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#c3e88d">"React", "Python", "Data Analytics", "Cybersecurity", "AI/ML"</tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff"> ],</tspan>
   </text>
-  <text x="40" y="292">
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#FF6B00">achievement</tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff">: </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#c3e88d">"Smart India Hackathon 2025 — Internally Shortlisted 🏆"</tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff">,</tspan>
+  <text x="40" y="257">
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#FF6B00">achievement</tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff">: </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#c3e88d">"Smart India Hackathon 2025 — Internally Shortlisted 🏆"</tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff">,</tspan>
   </text>
-  <text x="40" y="316">
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#FF6B00">philosophy </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff">: </tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#c3e88d">"Break things to understand them. Ship things to learn from them."</tspan>
-    <tspan style="font:400 13px 'Fira Code',monospace;fill:#89ddff">,</tspan>
+  <text x="40" y="278">
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#FF6B00">philosophy </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff">: </tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#c3e88d">"Break things to understand them. Ship things to learn from them."</tspan>
+    <tspan style="font:400 11px 'Fira Code',monospace;fill:#89ddff">,</tspan>
   </text>
-  <text x="24" y="352" style="font:400 13px 'Fira Code',monospace;fill:#89ddff">};</text>
+  <text x="24" y="308" style="font:400 11px 'Fira Code',monospace;fill:#89ddff">};</text>
 </svg>
