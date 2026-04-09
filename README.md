@@ -149,26 +149,6 @@ const navneeth = {
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=navneethptnk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=FF6B00&icon_color=FF6B00&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
-&nbsp;
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneethptnk&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=FF6B00&text_color=c9d1d9&langs_count=6" />
-
-<br/>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=navneethptnk&theme=github-dark-blue&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&stroke=FF6B00&background=0a0a0a&sideLabels=c9d1d9&dates=555555" />
-
-</div>
-
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░  CURRENTLY  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
 ## 🔭 Currently
 
 <div align="center">
