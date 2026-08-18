@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=FF6B00&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+that+scale+%F0%9F%9A%80;Turning+raw+data+into+decisions+%F0%9F%93%8A;Breaking+systems+to+understand+them+%F0%9F%94%90;CS+%40+GITAM+University+%C2%B7+Vizag%2C+India+%F0%9F%8C%8A" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=FF6B00&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions+%F0%9F%93%8A;Building+dashboards+that+drive+action+%F0%9F%93%88;Finding+the+story+hidden+in+the+numbers+%F0%9F%94%8D;CS+%40+GITAM+University+%C2%B7+Vizag%2C+India+%F0%9F%8C%8A" alt="typing" />
 
 <br/>
 
@@ -34,13 +34,13 @@
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  QUICK FACTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░  QUICK FACTS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-| 🎓 Degree | 🔐 Specialization | 📍 Base | 🏆 Milestone |
+| 🎓 Degree | 📊 Focus | 📍 Base | 🏆 Milestone |
 |:---:|:---:|:---:|:---:|
-| B.Tech CSE · 2027 | Cybersecurity | Vizag, India | SIH 2025 Shortlisted |
+| B.Tech CSE · 2027 | Data & Business Analytics | Vizag, India | SIH 2025 Shortlisted |
 
 </div>
 
@@ -48,54 +48,36 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░  SKILL ICONS  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-## ⚡ Tech Arsenal
+## ⚡ Analyst Toolkit
 
-**Languages & Runtimes**
+**Languages & Query**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-FF6B00?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Frontend**
+**BI & Visualization**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Data · AI · ML**
+**Data Wrangling & Analysis**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-FF6B00?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6B00?style=for-the-badge&logo=google&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Security & DevOps**
+**Investigation & Tooling**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-FF6B00?style=for-the-badge&logo=linux&logoColor=white)
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-333333?style=for-the-badge&logo=linux&logoColor=white)
-![Steganography](https://img.shields.io/badge/Steganography-1a1a1a?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br/>
@@ -108,11 +90,11 @@
 
 | Project | Description | Stack | Link |
 |:---|:---|:---|:---:|
-| 🎓 **EduPath** | Career guidance platform — admission timelines, scholarships & govt exam deadlines in one place | `React` `Node.js` `MySQL` | [→](https://github.com/navneethptnk/EduPath) |
-| 📊 **QuantVista** | Upload CSV / Excel / JSON → get interactive charts, smart analysis & exportable dashboards | `Python` `Flask` `Pandas` `Power BI` | [→](https://github.com/navneethptnk/QuantVista) |
-| 🎵 **AI Music Interaction** | Gesture-controlled music via real-time hand & pose tracking — no touch needed | `Python` `MediaPipe` `OpenCV` | 🔒 private |
-| 🔐 **Gamified Pass Checker** | Password strength checker with entropy scoring, breach detection & GAN resistance probing | `JavaScript` | [→](https://github.com/navneethptnk/gamyfied-pass-checker) |
-| 🌐 **Portfolio** | Personal site with dark minimal aesthetic, terminal UI & dual Full-Stack / Analyst persona toggle | `HTML` `CSS` `JS` | [→](https://github.com/navneethptnk/navneethptnk.github.io) |
+| 📊 **QuantVista** | Upload CSV / Excel / JSON → get interactive charts, smart analysis & exportable dashboards | `Python` `Pandas` `Power BI` | [→](https://github.com/navneethptnk/QuantVista) |
+| 🎓 **EduPath** | Career guidance data platform — mapping admission timelines, scholarships & govt exam deadlines into one dataset | `MySQL` `Data Modeling` | [→](https://github.com/navneethptnk/EduPath) |
+| 🔐 **Gamified Pass Checker — Data Angle** | Entropy scoring & breach-pattern analysis on password datasets, with GAN resistance probing | `Python` `Data Analysis` | [→](https://github.com/navneethptnk/gamyfied-pass-checker) |
+| 🎵 **Gesture Analytics for Music** | Tracked and analyzed real-time hand & pose motion data to trigger music interactions | `Python` `MediaPipe` `OpenCV` | 🔒 private |
+| 🌐 **Portfolio** | Personal site showcasing analyst case studies, dashboards & a dark minimal terminal UI | `HTML` `CSS` `JS` | [→](https://github.com/navneethptnk/navneethptnk.github.io) |
 
 </div>
 
@@ -126,12 +108,12 @@
 
 | &nbsp; | What | Details |
 |:---:|---|---|
-| 🥇 | **Smart India Hackathon 2025** | Internally shortlisted at GITAM University — competed among top student teams |
-| 🔐 | **Digital Forensics Practitioner** | Case studies in corporate espionage, steganography & mobile forensics (WhatsApp fake news) |
-| 📊 | **Analytics Engineer** | Power BI dashboards with DAX on Olist e-commerce · campus retail descriptive analytics |
-| 🤖 | **AI/ML Builder** | GAN-based password generation (PassGAN) · gesture-controlled music systems |
-| 🌐 | **Freelance Developer** | Delivered real-world web projects for external clients |
-| 🧠 | **UML & Systems Design** | Distributed notes management system · swimlane diagrams · activity diagrams in StarUML |
+| 🥇 | **Smart India Hackathon 2025** | Internally shortlisted at GITAM University — competed among top student teams on a data-driven solution |
+| 📊 | **Analytics Engineer** | Built Power BI dashboards with DAX on the Olist e-commerce dataset · campus retail descriptive analytics |
+| 🔍 | **Data Investigation** | Case studies in corporate espionage, steganography & mobile data forensics (WhatsApp fake news dataset analysis) |
+| 🤖 | **Applied ML for Analysis** | GAN-based password pattern generation (PassGAN) · gesture-tracking data pipelines |
+| 📈 | **Business Insight Delivery** | Freelance data & reporting projects delivered for external clients |
+| 🧠 | **Systems & Process Mapping** | Distributed notes management system · swimlane diagrams · activity diagrams in StarUML for process analysis |
 
 </div>
 
@@ -143,9 +125,9 @@
 
 | 📚 Learning | 🔨 Building | 👀 Exploring |
 |:---:|:---:|:---:|
-| Advanced DAX & Power Query | AI-integrated web platforms | Incident Response workflows |
-| ML model deployment | Analytics SaaS tools | CTF challenges & binary analysis |
-| System design patterns | Open source contributions | Network forensics with Wireshark |
+| Advanced DAX & Power Query | Analytics dashboards & reporting tools | Business intelligence workflows |
+| Statistical modeling | Data pipelines for decision-making | KPI design & data storytelling |
+| SQL query optimization | Open source data projects | Market & retail analytics |
 
 </div>
 
@@ -165,7 +147,7 @@
 
 <div align="center">
 
-<sub>⚡ Turning ideas into commits, one push at a time · navneethptnk · Vizag 🌊</sub>
+<sub>📊 Turning data into decisions, one dashboard at a time · navneethptnk · Vizag 🌊</sub>
 
 </div>
 
